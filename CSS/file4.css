@@ -217,3 +217,82 @@ position: fixed;
     left: 75px;
     z-index: 5;
 }
+.container {
+    position: relative;
+    width: 440px;
+    height: 320px;
+    margin: auto;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+.box {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: white;
+    position: absolute;
+  }
+
+.bbox1 {
+    background-color: #f08080;
+    top: 5980px;
+    left: 0px;
+  }
+.bbox2 {
+    background-color: #00bfff;
+    top: 5980px;
+    left: 110px;
+  }
+.bbox3 {
+    background-color: #ffff00;
+    top: 5980px;
+    left: 220px;
+  }
+.bbox4 {
+    background-color: #90ee90;
+    top: 5980px;
+    left: 330px;
+}
+
+.bbox5 {
+    background-color: #800080;
+    top: 6090px;
+    left: 0;
+  }
+.bbox6 {
+    background-color: #ff69b4;
+    top: 6090px;
+    left: 110px;
+  }
+.bbox7 {
+    background-color: #ffb6c1;
+    top: 6090px;
+    left: 220px;
+  }
+.bbox8 {
+    background-color: #add8e6;
+    top: 6090px;
+    left: 330px;
+  }
+
+.bbox9 {
+    background-color: #90ee90;
+    top: 6200px;
+    left: 0;
+  }
+.bbox10 {
+    background-color: #ffff00;
+    top: 6200px;
+    left: 110px;
+  }
+.bbox11 {
+    background-color: #800080;
+    top: 6200px;
+    left: 220px;
+  }
