@@ -1,0 +1,242 @@
+.d1{
+    background-color: yellow;
+    height: 300px;
+    width: 400px;
+}
+.p1{
+    padding: 170px 40px 10px 10px ;
+}
+.d2{
+    background-color: beige;
+}
+.dt{
+    text-transform: capitalize;
+}
+.dd1{
+border: 1px black solid;
+width: fit-content;
+margin: 30px;
+}
+.p2{
+    text-transform: capitalize ;
+}
+.p3{
+    text-transform: capitalize ;
+}
+.p4{
+    text-transform: capitalize ;
+}
+.p5{
+    text-transform: capitalize ;
+}
+.p6{
+    text-transform: capitalize ;
+}
+.p7{
+    border-style: ridge;
+    width: 150px;
+}
+.p8{
+    border: 1px black solid;
+    width: 150px;
+}
+.p9{
+    border-style: double;
+    width: 150px;
+}
+.d3{
+    width: 400px;
+    box-shadow: 5px 7px 5px 5px;
+}
+.d4{
+    background-color: yellow;
+    border: 4px black solid;
+}
+.p10{
+    padding:10px;
+}
+.d5{
+    background-color: yellow;
+    margin-left: 200px ;
+    margin-right: 200px ;
+    border: 4px black solid;
+}
+.p11{
+    padding:10px;
+}
+.d6{
+    border: 5px solid #ad8e13; 
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.d7{
+    background-color: aqua;
+    width: 100%;
+    height: 20px;
+}
+.d8{
+    justify-content: center;
+    text-align: center;
+    margin: 5px;
+}
+.d9{
+    background-color: pink;
+    width: 100%;
+    height: 20px;
+}
+.p13{
+    color: black;
+}
+.restart-btn{
+    background-color: lightgreen;
+    color: #fff;
+    padding-left: 10px;
+    padding-right: 10px ;
+    border-color: lightgreen;
+    width: 120px;
+    height: 30px;
+    border-radius: 4px;
+}
+.d10{
+    background-color: black;
+    width: 100%;
+    height: 300px;
+    padding: 120px;
+}
+.d11{
+    background-color: #fff;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    margin:10px 400px ;
+    padding: 100px;
+}
+.d12{
+    margin: 20px;
+    width: 300px;
+    height: 200px;
+    background-color: #fff;
+    border: 2px solid #1f1f7a;
+    box-shadow: 
+                10px 10px 0 rgba(255, 0, 0, 0.5),  
+                -10px 10px 0 rgba(0, 255, 0, 0.5), 
+                10px -10px 0 rgba(0, 0, 255, 0.5), 
+                -10px -10px 0 rgba(255, 255, 0, 0.5),
+                inset 0 0 0 rgba(128, 0, 128, 0.5);
+}
+.p14{
+    width: 300px;
+    height: 100px;
+    border-style: dashed solid dotted solid ;
+}
+.p15{
+    width: 300px;
+    height: 100px;
+    border-style: solid solid dashed dotted ;
+
+}
+.p16{
+    width: 300px;
+    height: 100px;
+    border-style: dotted dotted dotted dotted ;
+
+}
+.p17{
+    width: 300px;
+    height: 100px;
+    border-style: solid solid solid solid ;
+
+}
+.p18{
+    width: 300px;
+    height: 100px;
+    border-style: solid solid solid solid ;
+    border-color: blue;
+
+}
+.p19{
+    width: 300px;
+    height: 100px;
+    border-style: solid solid dotted solid ;
+    border-color: green blue green green;
+}
+.d13{
+    width: 500px;
+    height: fit-content;
+    padding: 20px;
+    background-color: beige;
+    border: 4px brown solid;
+}
+.foximg{
+    border: 4px orange ;
+    border-style: ridge;
+}
+.p20{
+    background-color: yellow;
+    z-index: 1;
+    width: fit-content;
+    height: 200px;
+    overflow-y: scroll;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-left: 599px;
+}
+.navdiv{
+    background-color: gray;
+    height: fit-content;
+}
+.list{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.div1{
+height: 350px;
+}
+.yellow-btn{
+margin-left: 590px;
+background-color: yellow;
+border-radius: 10px;
+}
+.yellow-btn2{
+    background-color: yellow;
+    border-radius: 10px;
+    }
+.div-sub1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.specials{
+    border-radius: 20px ;
+    height: 200px;
+    width: 300px;
+    box-shadow: 
+    10px 10px 15px rgba(0, 0, 0, 2);
+    border: 2px black solid ;
+}
+.prices{
+    border-radius: 20px ;
+    height: 200px;
+    width: 300px;
+    box-shadow: 
+    10px 10px 15px rgba(0, 0, 0, 2);
+    border: 2px black solid ;
+}
+.div2{
+    display: flex;
+    justify-content: center;
+}
+.menu{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+    border: 2px black solid;
+
+}
