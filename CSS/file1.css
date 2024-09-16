@@ -1,0 +1,122 @@
+.p1{
+    color: pink;
+}
+.p3{
+    color: yellow;
+    font-size: 3rem;
+}
+.p4{
+    background-color: blue;
+    color: #fff;
+}
+.hf{
+    background-color: blue;
+    color: yellow;
+}
+.img1{
+    width: 150px;
+    height: 100px;
+}
+.vid1{
+    width: 200px;
+    height: 100px;
+}
+.p5{
+    color: aqua;
+    font-weight: bold;
+}
+#p6{
+    background-color: aqua;
+    color: darkolivegreen;
+    font-weight: bold;
+}
+.div2{
+    background-color: aquamarine;
+    color: red;
+}
+.p9{
+    color: blue;
+}
+.div3{
+    background-color: pink;
+}
+.darkblue{
+    color: darkblue;
+}
+.darkred{
+    color: crimson;
+}
+.blue{
+    background-color: blue;
+    color: #fff;
+    height: 80px;
+}
+.height{
+    height: 80px;
+}
+.pink{
+    background-color: hotpink;
+    color: #fff;
+    height: 80px;
+}
+.orange{
+    background-color: orange;
+    color: #fff;
+    height: 80px;
+}
+.form{
+    background-color: antiquewhite;
+    width: 400px;
+    height: fit-content;
+    margin: 2%;
+    border: 2px black solid;
+}
+.label{
+    font-size:larger ;
+    background-color: brown;
+    margin: 35%;    
+    padding: 2%;
+}
+.input{
+    width: 90%;
+    padding: 2%;
+    margin: 2%;
+}
+.form-btn{
+    width: 90%;
+    padding: 2%;
+    margin: 2%;
+    background-color: orange;
+}
+.div4{
+    width: 90%;
+    height: 100px;
+    background: linear-gradient(-135deg, #1f1f7a 0%, #80005a 50%, #d4ff00 50%, #05c605 100%);
+}
+.table1{
+    border: 2px #fff solid;
+    background-color: darkturquoise;
+}
+.head{
+    background-color: rgb(230, 230, 122);
+    color: red;
+    height: 40px;
+}
+.row{
+    background-color: rgb(77, 77, 255);
+    color: black;
+}
+.btn2{
+    width: fit-content;
+    height: 30px;
+    margin: 20px;
+}
+.div5{
+    background-color: gray;
+}
+.div6{
+    background-color: green;
+}
+.div7{
+    background-color: beige;
+}
